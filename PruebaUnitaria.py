@@ -36,7 +36,7 @@ class TestProccess(unittest.TestCase):
         # se genera una variable contador
         cont = 0
         # se realiza la prueba
-        result = Proccess.elderly_reputation(data_items,cont,'owner','reputation')
+        result = Proccess.elderly_reputation(data_set,cont,'owner','reputation')
         self.assertEqual(result, 'Mayor Reputacion\nRespuesta n.: 11\nReputacion : 925042')
 
 if __name__ == '__main__':
