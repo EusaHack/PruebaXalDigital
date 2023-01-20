@@ -4,7 +4,7 @@
 ###### Usar cualquier lenguaje de programación. Python o Nodejs son preferibles :
 ```
 1. Conectarse al enlace
-
+![](https://github.com/EusaHack/PruebaXalDigital/tree/main/Image/1.png)
 2. Obtener el número de respuestas contestadas y no contestadas 
 4. Obtener la respuesta más vieja y más actual 
 5. Obtener la respuesta del owner que tenga una mayor reputación 
