@@ -1,7 +1,7 @@
 # PruebaXalDigital
 ## Esta prueba es una entrevista en la cual se cubrieron todos los temas, el código fue desarrollado en Python y SQL
-###### Primer reto : 
-Usar cualquier lenguaje de programación. Python o Nodejs son preferibles :
+## Primer reto : 
+###### Usar cualquier lenguaje de programación. Python o Nodejs son preferibles :
 ```
 1. Conectarse al enlace 
 2. Obtener el número de respuestas contestadas y no contestadas 
